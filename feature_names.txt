@@ -1,0 +1,8 @@
+Platform
+Year
+Genre
+NA_Sales
+EU_Sales
+JP_Sales
+Other_Sales
+
